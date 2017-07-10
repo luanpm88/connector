@@ -1,0 +1,14 @@
+{
+    "name": "lawepham/connector",
+    "description": "Connector",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luan Pham",
+            "email": "luanpm88@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
