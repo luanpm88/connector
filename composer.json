@@ -9,6 +9,6 @@
             "email": "luanpm88@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
